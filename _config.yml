@@ -82,31 +82,32 @@ analytics:
 author:
   name             : "Dennis Wittchen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Assistant, Dresden University of Applied Scienes"
   location         : "Dresden, Germany"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=bpoRTaIAAAAJ"
   email            :
+  pubmed           : 
+  academia         : "https://htw-dresden.academia.edu/DennisWittchen"
+  orcid            : "https://orcid.org/0000-0002-6190-1799"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=bpoRTaIAAAAJ"
   researchgate     : "https://www.researchgate.net/profile/Dennis_Wittchen"
   uri              : "http://www.drematrix.de/team/dennis-wittchen/"
+  github           : "derikon"
   bitbucket        :
+  stackoverflow    :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "derikon"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6190-1799"
   pinterest        :
   soundcloud       :
-  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
