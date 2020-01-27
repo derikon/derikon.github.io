@@ -9,16 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+### Curriculum Vitae - Dennis Wittchen
+
+
 Education
 ======
 
 
-Work experience
-======
-
-  
-Skills
-======
 
 
 Publications
